@@ -1,12 +1,7 @@
-## Hi there 👋
+![Open Source at TIA UX Studio](https://github.com/tiauxstudio/.github/blob/main/images/open-at-tiauxstudio.png) 
 
-<!--
+## Realizing the unimagined. Digital ecosystems, platforms, products through innovation and design.
 
-**Here are some ideas to get you started:**
+TIA UX Studio is a human-centered product innovation team that ships premium products and ecosystems for the world’s most pioneering companies.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Visit [tiauxstudio.com](https://tiauxstudio.com) to know more!
